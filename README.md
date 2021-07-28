@@ -12,7 +12,7 @@
 		<h4><abbr title="July">Jul</abbr> 25, 2021</h4>
 	</header>
 	<section>
-		<h2><a href="projects.html"></a>Projects</h2>
+		<h2><a href="https://mwe743.github.io/projects/"></a>Projects</h2>
 	</section>
 	<hr>
 	<footer>
