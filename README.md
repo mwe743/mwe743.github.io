@@ -12,28 +12,9 @@
 		<h4><abbr title="July">Jul</abbr> 25, 2021</h4>
 	</header>
 	<section>
-		<h2>Projects</h2>
-		<ul>
-			<h2>
-				<li><b><a href="Hello-world.html" target="_blank">Hello world</a></b></li>
-				<li><b><a href="Structure.html" target="_blank">Structure</a></b></li>
-				<li><b><a href="Lists.html" target="_blank">Lists</a></b></li>
-				<li><b><a href="Images.html" target="_blank">Images</a></b></li>
-				<li><b><a href="Tables.html" target="_blank">Tables</a></b></li>
-				<li><b><a href="video-audio-files.html" target="_blank">Video And Audio Files</a></b></li>
-				<li><b><a href="Routine-And-Interests.html" target="_blank">Routine And Interests</a></b></li>
-			</h2>
-		</ul>
+		<h2><a href="projects.html"></a>Projects</h2>
 	</section>
 	<hr>
-	<section>
-		<h2>Data</h2>
-		<h3>Success meter</h3>
-		<p>Meter1<meter max="100" value="90">90%</meter></p>
-		<h3>Progress Meter</h3>
-		<p>Meter2<meter max="100" value="60">60%</meter></p>
-
-	</section>
 	<footer>
 		<details>
 			<summary>
