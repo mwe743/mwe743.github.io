@@ -28,5 +28,4 @@
 			</summary>
 			<p><big>Mahmoud Wael</big></p>
 		</details>
-		<address>Egypt</address>
 	</footer>
