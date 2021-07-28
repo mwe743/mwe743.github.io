@@ -1,0 +1,55 @@
+<!-- website main page that connects all my projects together -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Index</title>
+</head>
+<body>
+	<header>
+		<h1>Index</h1>
+		<h4><abbr title="July">Jul</abbr> 25, 2021</h4>
+	</header>
+	<section>
+		<h2>Projects</h2>
+		<ul>
+			<h2>
+				<li><b><a href="Hello-world.html" target="_blank">Hello world</a></b></li>
+				<li><b><a href="Structure.html" target="_blank">Structure</a></b></li>
+				<li><b><a href="Lists.html" target="_blank">Lists</a></b></li>
+				<li><b><a href="Images.html" target="_blank">Images</a></b></li>
+				<li><b><a href="Tables.html" target="_blank">Tables</a></b></li>
+				<li><b><a href="video-audio-files.html" target="_blank">Video And Audio Files</a></b></li>
+				<li><b><a href="Routine-And-Interests.html" target="_blank">Routine And Interests</a></b></li>
+			</h2>
+		</ul>
+	</section>
+	<hr>
+	<section>
+		<h2>Data</h2>
+		<h3>Success meter</h3>
+		<p>Meter1<meter max="100" value="90">90%</meter></p>
+		<h3>Progress Meter</h3>
+		<p>Meter2<meter max="100" value="60">60%</meter></p>
+
+	</section>
+	<footer>
+		<details>
+			<summary>
+				<big><big><b>Learning Recources</b></big></big>
+			</summary>
+			<big><b><p><a href="https://www.coursera.org/learn/html/home/welcome">Introduction To HTML5 Course</a></p></b></big>
+			<big><b><p><a href="https://learn.shayhowe.com/html-css/">Shayhowe</a></p></b></big>
+		</details>
+		<details>
+			<summary>
+				<big><big><b>Creator</b></big></big>
+			</summary>
+			<p><big>Mahmoud</big></p>
+			<p><big><bdo dir="rtl">محمود</bdo></big></p>
+		</details><h2>
+		<address>Egypt</address>
+	</footer>
+</body>
+</html>
