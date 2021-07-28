@@ -19,8 +19,8 @@
 			<summary>
 				<big><big><b>Learning Recources</b></big></big>
 			</summary>
-			<big><b><p><a href="https://www.coursera.org/learn/html/home/welcome">Introduction To HTML5 Course</a></p></b></big>
-			<big><b><p><a href="https://learn.shayhowe.com/html-css/">Shayhowe</a></p></b></big>
+			<big><b><p><a href="https://www.coursera.org/learn/html/home/welcome" target="_blank">Introduction To HTML5 Course</a></p></b></big>
+			<big><b><p><a href="https://learn.shayhowe.com/html-css/" target="_blank">Shayhowe</a></p></b></big>
 		</details>
 		<details>
 			<summary>
