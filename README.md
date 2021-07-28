@@ -27,5 +27,4 @@
 				<big><big><b>Creator</b></big></big>
 			</summary>
 			<p><big>Mahmoud Wael</big></p>
-		</details><h2>
-		<address>Egypt</address>
+		</details>
