@@ -1,6 +1,5 @@
 <!-- website main page that connects all my projects together -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
